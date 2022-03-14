@@ -5,3 +5,7 @@ If you have any questions regarding this Capstone project, please open an issue 
 
 # Submissions
 Submission will be made through the slack channel by dropping the link to your project.
+# Instructions
+For your final project, you will be building your personal online Resume and deploying it on Netlify. There are 3 Tasks files on this repo, follow the Instsuctions therein to execute the project.
+
+
