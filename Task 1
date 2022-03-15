@@ -1,6 +1,10 @@
 Instruction 1.
-A design for the expected result can be found here. Replicate the design here in HTML, CSS and Javascript from the concepts you have learnt during the academy. No External libraries is allowed.
+A design for the expected result can be found below. Replicate the design here in HTML, CSS and Javascript from the concepts you have learnt during the academy.
+No External libraries is allowed.
+
 Note:
-- Be sure to include a back to top i.e. a button that takes the user back to the top of the page. This should be implemented using Javascript.
+- Be sure to include a back to top button i.e. a button that returns the user to the top of the page. 
 - Ensure that you add a light mode and a dark mode view to your Resume.
-- There will be Bonus point for RESPONSIVENESS
+- The above steps should be implemented using Javascript.
+
+Also, there will be a Bonus point for adding RESPONSIVENESS to your project.
