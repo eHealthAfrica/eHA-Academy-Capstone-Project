@@ -1,6 +1,6 @@
 # INSTRUCTION
 
-A design for the expected result can be found [here]:(https://muflihabd.netlify.app/). Replicate the design using HTML, CSS and Javascript from the
+A design for the expected result can be found [here](https://muflihabd.netlify.app/). Replicate the design using HTML, CSS and Javascript from the
 concepts you have learnt at the academy. No External libraries is allowed. However, you can customize the design by changing the font-color, 
 background color or font style. 
 
