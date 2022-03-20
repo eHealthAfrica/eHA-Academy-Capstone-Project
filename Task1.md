@@ -1,4 +1,4 @@
-#INSTRUCTION:
+# INSTRUCTION
 
 To begin, create a repository named capstone_project, and grant read access of your repository to the following email addresses:
 
